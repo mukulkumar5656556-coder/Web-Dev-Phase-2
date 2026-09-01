@@ -1,0 +1,17 @@
+{
+  "name": "web-dev-phase-2",
+  "version": "1.0.0",
+  "description": "backened by hitesh choudhary",
+  "keywords": [
+    "javascript",
+    "backened",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Mukul Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
