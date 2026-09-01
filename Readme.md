@@ -1,2 +1,2 @@
-# chai aur backened by chai aur code
+# chai aur backened by chai aur c ode
 
